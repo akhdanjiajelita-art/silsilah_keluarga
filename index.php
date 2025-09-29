@@ -64,7 +64,7 @@
 <body>
     <div class="container dashboard">
         <h1>👨‍👩‍👧‍👦 Dashboard Keluarga</h1>
-        <p>Kelola anggota keluarga dan relasi dengan mudah</p>
+        <p>Kelola anggota keluarga Jiah dan relasi dengan mudah</p>
 
         <div class="row g-4 justify-content-center">
             <!-- Lihat Silsilah -->
